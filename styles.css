@@ -10,7 +10,7 @@ h1 {
 }
 
 .bg-image{
-  background-image: url("images/musicSheet.jpg");
+  background-image: url("./images/musicSheet.jpg");
   text-align: center;
   height: 100vh;
 }
@@ -94,14 +94,14 @@ footer {
 
 @media (min-width: 765px) {
   .bg-image{
-    background-image: url("images/musicSheet.jpg");
+    background-image: url("./images/musicSheet.jpg");
     background-size: cover;
   }
 }
 
 @media (min-width: 546) {
   .bg-image{
-    background-image: url("images/musicSheet.jpg");
+    background-image: url("./images/musicSheet.jpg");
     background-size: 100%;
   }
 }
